@@ -1,6 +1,5 @@
 import math
 
-
 graus =  int(input("Digite um valor em Graus:"))
 
 rad =  graus / 180
